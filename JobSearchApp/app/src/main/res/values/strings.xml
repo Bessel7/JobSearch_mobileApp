@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Page d'accueil -->
+    <string name="app_name">JobSearchApp</string>
+    <string name="accueil_title">Bienvenue sur JobSearchApp</string>
+    <string name="accueil_description">Cette application vous permet de créer, modifier et supprimer des CVs, ainsi que de visualiser une liste de tous les CVs enregistrés dans la base de données.</string>
+
+    <!-- Page CRUD -->
+    <string name="crud_title_add">Ajouter un nouveau CV</string>
+    <string name="crud_title_edit">Modifier un CV existant</string>
+    <string name="crud_nom_hint">Nom</string>
+    <string name="crud_prenom_hint">Prénom</string>
+    <string name="crud_age_hint">Âge</string>
+    <string name="crud_adresse_hint">Adresse</string>
+    <string name="crud_email_hint">Email</string>
+    <string name="crud_telephone_hint">Téléphone</string>
+    <string name="crud_specialite_hint">Spécialité</string>
+    <string name="crud_niveau_etude_hint">Niveau d\'étude</string>
+    <string name="crud_experience_hint">Expérience professionnelle</string>
+    <string name="crud_ajouter">Ajouter</string>
+    <string name="crud_modifier">Modifier</string>
+    <string name="crud_supprimer">Supprimer</string>
+    <string name="crud_button">Ajouter/Modifier/Supprimer un CV</string>
+
+    <!-- Page Liste des CVs -->
+    <string name="cvs_title">Liste des CVs</string>
+
+
+
+
+
+    <!-- Dans CVListAdapter -->
+    <string name="age_format">%d ans</string>
+
+</resources>
